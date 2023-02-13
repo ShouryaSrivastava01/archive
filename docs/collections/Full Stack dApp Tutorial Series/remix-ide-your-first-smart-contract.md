@@ -12,7 +12,7 @@ some_url:
 ![](https://ipfs.infura.io/ipfs/QmNQCiD3aQgUrnRS7ApCEBY2ydXBoVvfjx2BjTnUh3vMvU)
 
 
-The easiest place to start writing smart contracts in Solidity in with the [online Remix IDE.](https://remix.ethereum.org/)
+The easiest place to start writing smart contracts in Solidity in with the [online Remix IDE.](https://remix.ethereum.org/){:target="_blank"}
 
 As it's an online IDE, no installation or development environment setup is required, you can navigate to the site and get started!
 
